@@ -1,5 +1,8 @@
 html {
   height: 100%;
   width: 100%;
-  border-radius: 10px;
+}
+
+element.style {
+    border-radius: 10px;
 }
